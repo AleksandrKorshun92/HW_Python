@@ -1,0 +1,8 @@
+CRITICAL - 2024-03-17 14:36:25,527 функция "psrser_directory()" строка 58 : Ошбика пути. программа не может найти такой путь
+INFO - 2024-03-17 14:40:33,247 функция "psrser_directory()" строка 51 : Dir(name_file='new_dir3', type_file='directory', dir_flag=True, direct='GB')
+INFO - 2024-03-17 14:40:33,248 функция "psrser_directory()" строка 48 : Dir(name_file='lekcia', type_file='py', dir_flag=False, direct='GB')
+INFO - 2024-03-17 14:40:33,248 функция "psrser_directory()" строка 48 : Dir(name_file='SASSSSS00001', type_file='doc', dir_flag=False, direct='GB')
+INFO - 2024-03-17 14:40:33,248 функция "psrser_directory()" строка 54 : Dir(name_file='aaa', type_file=None, dir_flag=False, direct='GB')
+INFO - 2024-03-17 14:40:33,248 функция "psrser_directory()" строка 48 : Dir(name_file='SASSSSS00002', type_file='doc', dir_flag=False, direct='GB')
+INFO - 2024-03-17 14:40:33,248 функция "psrser_directory()" строка 48 : Dir(name_file='seminar', type_file='py', dir_flag=False, direct='GB')
+CRITICAL - 2024-03-17 14:41:21,120 функция "psrser_directory()" строка 57 : Ошбика пути. программа не может найти /home/aleksander/PycharmProjects/pythonProject1/GB/Tas7 путь
